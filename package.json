@@ -6,7 +6,7 @@
   "dependencies": {
     "lodash": "^4.15.0",
     "pg": "^6.1.0",
-    "shapes_postgis": "^0.0.6"
+    "shapes_postgis": "jmarca/shapes_postgis"
   },
   "devDependencies": {
     "config_okay": "0.0.3",
