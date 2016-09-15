@@ -1,0 +1,20 @@
+{
+  "name": "hpms_routes",
+  "version": "1.0.0",
+  "description": "HPMS routes, extracted from hpms_locator project",
+  "main": "index.js",
+  "dependencies": {
+    "pg": "^6.1.0",
+    "shapes_postgis": "^0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github/jmarca/hpms_locator"
+  },
+  "author": "James E. Marca",
+  "license": "GPL-3.0"
+}
